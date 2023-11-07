@@ -15,6 +15,7 @@ public class url extends HttpServlet
 	public void doPost(HttpServletRequest request,HttpServletResponse response)throws ServletException,IOException
 	{
 		//rajesh jjjjjjj 
+		//hdsfcbHEINWVCWJEifckm
 		PrintWriter out=response.getWriter();
 		String user=request.getParameter("username");
 		
